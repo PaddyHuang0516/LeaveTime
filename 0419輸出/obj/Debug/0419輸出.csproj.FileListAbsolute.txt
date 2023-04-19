@@ -1,0 +1,8 @@
+C:\Users\ispan\source\repos\0419輸出\0419輸出\bin\Debug\0419輸出.exe.config
+C:\Users\ispan\source\repos\0419輸出\0419輸出\bin\Debug\0419輸出.exe
+C:\Users\ispan\source\repos\0419輸出\0419輸出\bin\Debug\0419輸出.pdb
+C:\Users\ispan\source\repos\0419輸出\0419輸出\obj\Debug\0419輸出.csproj.AssemblyReference.cache
+C:\Users\ispan\source\repos\0419輸出\0419輸出\obj\Debug\0419輸出.csproj.SuggestedBindingRedirects.cache
+C:\Users\ispan\source\repos\0419輸出\0419輸出\obj\Debug\0419輸出.csproj.CoreCompileInputs.cache
+C:\Users\ispan\source\repos\0419輸出\0419輸出\obj\Debug\0419輸出.exe
+C:\Users\ispan\source\repos\0419輸出\0419輸出\obj\Debug\0419輸出.pdb
